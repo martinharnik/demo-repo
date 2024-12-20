@@ -1,3 +1,5 @@
+# Haiku masterpiece
+
 ```
 Code flows like a stream,
 Logic dances in the night,
